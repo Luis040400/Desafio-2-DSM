@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">DesafioPractico2</string>
+    <string name="email">Correo</string>
+    <string name="password">Contraseña</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellido">Apellido</string>
+    <string name="login">Iniciar sesión</string>
+    <string name="createAct">Crear cuenta</string>
+
+    <string name="home_title">Lista medicamentos</string>
+
+    <string name="carrito_title">Carrito</string>
+
+    <string name="history_title">Historial de compras</string>
+
+    <string name="purchase_card">Ingrese los digitos de la tarjeta</string>
+    <string name="purchase_CVV">Ingrese el CVV de la tarjeta</string>
+</resources>
